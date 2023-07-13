@@ -1,0 +1,12 @@
+body{
+    background-color:blueviolet;
+    display: flex;
+    text-align:center;
+    justify-content: center;
+}
+.gokul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
